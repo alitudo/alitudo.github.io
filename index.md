@@ -3,6 +3,8 @@ layout: default
 ---
 ## Nutrition
 
+We can help you and prvide you with with....
+
 Advisory services related to:
 *  development of food products and food supplements
 *  optimisation of technological processes in food industry
@@ -15,10 +17,3 @@ Development of:
 *  Something else altogether
 
 We hope to see you!
-
-You can find us on [LinkedIn](https://www.linkedin.com/company/alitudo-s/)
-
-
-```
-The final element.
-```
