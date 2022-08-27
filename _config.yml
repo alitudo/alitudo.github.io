@@ -2,5 +2,8 @@ title: Alitudo S d.o.o.
 logo: /assets/img/logo-alitudo.png
 description: Advisory services in food products development and food safety
 show_downloads: false
+github:
+  is_project_page: false
+  is_user_page: false
 google_analytics:
 theme: jekyll-theme-minimal
