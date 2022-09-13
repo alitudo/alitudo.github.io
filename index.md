@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Nutrition
+# Nutrition
 
 We can help you and prvide you with with....
 
@@ -10,7 +10,7 @@ Advisory services related to:
 *  optimisation of technological processes in food industry
 *  development of health-safe products and aligning with regulatory requirements related to food safety.
 
-## Food safety and cleaning
+# Food safety and cleaning
 
 Development of:
 *  HACCP studies
@@ -18,7 +18,7 @@ Development of:
 
 We hope to see you!
 
-## Company details
+# Company details
 
 **Alitudo S d.o.o.**  
 Stjepana Gradića 19  
