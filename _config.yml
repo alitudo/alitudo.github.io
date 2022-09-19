@@ -6,6 +6,7 @@ show_downloads: false
 google_analytics: UA-240159649-1
 github:
   is_project_page: false
-github:
   is_user_page: false
 theme: jekyll-theme-minimal
+plugins:
+    - jekyll-seo-tag
