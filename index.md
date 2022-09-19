@@ -3,8 +3,6 @@ layout: default
 ---
 # Nutrition
 
-We can help you and prvide you with with....
-
 Advisory services related to:
 *  development of food products and food supplements
 *  optimisation of technological processes in food industry
@@ -14,11 +12,10 @@ Advisory services related to:
 
 # Food safety and cleaning
 
-Development of:
-*  HACCP studies
-*  Something else altogether
-
-We hope to see you!
+Advisory services related to and development of:
+*  HACCP assesments, templates, and reports
+*  best hygiene practices in food production and preparation
+*  washing and disinfection 
 
 <br/>
 
