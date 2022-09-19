@@ -12,7 +12,7 @@ Advisory services related to:
 
 # Food safety and cleaning
 
-Advisory services related to and development of:
+Advisory services related to:
 *  HACCP assesments, templates, and reports
 *  best hygiene practices in food production and preparation
 *  washing and disinfection 
